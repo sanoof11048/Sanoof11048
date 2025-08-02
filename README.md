@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **sanoof11048/Sanoof11048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -89,4 +87,4 @@ _“Building for the web with purpose and precision.”_
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
